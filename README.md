@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of srdgame/flarum-ext-auth-frappe.** Not for installation: use [Packagist](https://packagist.org/packages/srdgame/flarum-ext-auth-frappe) or the [upstream repository](https://github.com/srdgame/flarum-ext-auth-frappe).
 
-**0** versions archived · Latest: [`v0.3.0`](https://github.com/flarchive/srdgame-flarum-ext-auth-frappe/tree/archive/v0.3.0) · License: `GPL-3.0+` · Flarum: `^0.1.0-beta.6`
+**3** versions archived · Latest: [`v0.3.0`](https://github.com/flarchive/srdgame-flarum-ext-auth-frappe/tree/archive/v0.3.0) · License: `GPL-3.0+` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta` | 2017-02-10 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/srdgame-flarum-ext-auth-frappe/tree/archive/v0.1.0-beta) |
+| `v0.2.1` | 2018-03-01 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/srdgame-flarum-ext-auth-frappe/tree/archive/v0.2.1) |
+| `v0.3.0` | 2018-11-21 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/srdgame-flarum-ext-auth-frappe/tree/archive/v0.3.0) |
 
 Catalog entry: [packages/srdgame-flarum-ext-auth-frappe.json](https://github.com/flarchive/archive-index/blob/main/packages/srdgame-flarum-ext-auth-frappe.json)
 
